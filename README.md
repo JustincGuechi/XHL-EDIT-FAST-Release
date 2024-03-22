@@ -1,6 +1,6 @@
 # Application d'Édition de Documents XHL
 
-## Version ?: 1.0.1
+## Version : 1.0.1
 ![xhl-edit-fast](https://github.com/JustincGuechi/XHL-Fast-Edit/assets/129166686/533244cb-4920-4c39-9a0f-b821ae76f3d3)
 
 **XHL Fast EDIT** est une application simple et pratique conçue pour vous permettre de modifier des documents au format XHL ou des fichiers .zip contenant des documents XHL. Cette application vous permet de réaliser des éditions rapides sur ces fichiers sans tracas.
